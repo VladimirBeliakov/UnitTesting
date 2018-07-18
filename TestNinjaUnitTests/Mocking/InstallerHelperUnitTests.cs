@@ -40,6 +40,7 @@ namespace TestNinjaUnitTests.Mocking
             public new void DownloadFile(string address, string fileName)
             {
 
+
             }
         }
     }
